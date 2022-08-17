@@ -3,7 +3,7 @@ Here is my sample lecture in the Programming for Finance course: The Analytics o
 
  https://github.com/Arash-SoleimaniDahaj/The-Analytics-of-a-Two-Asset-Portfolio
 
-The Analytics of a Two-Asset Portfolio: Sample Lecture
+The Analytics of a Two-Asset Portfolio: a Sample Lecture
 
 This is a sample lecture that can be taught in Programming for Finance, Finacial Analytics, or Applied Investment courses. The topic requires introductory Calculus and Introductory Probability and Statistics as prerequisites. 
 
